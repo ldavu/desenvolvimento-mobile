@@ -1,5 +1,5 @@
 # aula-1.js
-aula 1 de javascript ifc
+## aula 1 de javascript ifc
 
 javascript é uma linguagem cLite
 
@@ -10,6 +10,6 @@ javascript é uma linguagem cLite
 
 Rodar o javascript
 - abrir um novo terminal
-- digitar "dir" para acessar seu diretorio
-- após achar o diretorio digitar "node <diretorio arquivo.js>
+- digitar `dir` para acessar seu diretorio
+- após achar o diretorio digitar "`node <diretorio arquivo.js>`
 - logo em seguida o script será executado
