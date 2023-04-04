@@ -11,5 +11,5 @@ javascript é uma linguagem cLite
 Rodar o javascript
 - abrir um novo terminal
 - digitar `dir` para acessar seu diretorio
-- após achar o diretorio digitar "`node <diretorio arquivo.js>`
+- após achar o diretorio digitar `node <diretorio arquivo.js>`
 - logo em seguida o script será executado
