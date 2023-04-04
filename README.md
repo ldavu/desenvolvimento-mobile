@@ -14,3 +14,8 @@ Rodar o javascript
 - digitar `dir` para acessar seu diretorio
 - após achar o diretorio digitar `node <diretorio arquivo.js>`
 - logo em seguida o script será executado
+
+
+* código
+- `console.log('5+5', 5+5)`
+- o console.log irá printar a string '5+5' e depois da virgula irá fazer o cálculo dessa operação
