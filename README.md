@@ -1,4 +1,3 @@
-[Logo do R](http://developer.r-project.org/Logo/Rlogo-5.png)
 # aula-1.js
 ## aula 1 de javascript ifc
 
