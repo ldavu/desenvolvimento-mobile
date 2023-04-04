@@ -1,4 +1,4 @@
-![Alt ou título da imagem]https://th.bing.com/th/id/R.1249492264f909cc540ddc8e87419e42?rik=YgSINlEYXUsLjA&pid=ImgRaw&r=0
+![Logo do R](http://developer.r-project.org/Logo/Rlogo-5.png)
 # aula-1.js
 ## aula 1 de javascript ifc
 
