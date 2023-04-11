@@ -19,3 +19,5 @@ Rodar o javascript
 1. código
 - `console.log('5+5', 5+5)`
 - o console.log irá printar a string '5+5' e depois da virgula irá fazer o cálculo dessa operação
+
+## aula 2
