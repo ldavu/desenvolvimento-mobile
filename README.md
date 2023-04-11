@@ -21,3 +21,9 @@ Rodar o javascript
 - o console.log irá printar a string '5+5' e depois da virgula irá fazer o cálculo dessa operação
 
 ## aula 2
+
+tipagem do javascript
+
+- `const` o comportamento fundamental de uma constante é que uma vez atribuído um valor a ela, este não pode ser alterado.
+- `let` o comportamento dele é flexivel pode ser alterada no meio do código
+- `var` atribui automaticamente o valor a variavel
