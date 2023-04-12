@@ -27,3 +27,4 @@ tipagem do javascript
 - `const` o comportamento fundamental de uma constante é que uma vez atribuído um valor a ela, este não pode ser alterado.
 - `let` o comportamento dele é flexivel pode ser alterada no meio do código
 - `var` atribui automaticamente o valor a variavel
+- a função `typeof` ela retorna o tipo da variavel ( string, number, boleano)
