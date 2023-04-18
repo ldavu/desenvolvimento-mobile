@@ -28,3 +28,11 @@ tipagem do javascript
 - `let` o comportamento dele é flexivel pode ser alterada no meio do código
 - `var` atribui automaticamente o valor a variavel
 - a função `typeof` ela retorna o tipo da variavel ( string, number, boleano)
+
+## Aula 3
+
+Boolean
+
+- A função `!` ela retorna um valor blooleano inverso da variavel
+-Exemplo: `console.log(1)` o número 1 é true pois é positivo
+-         `console.log(0)` o número 0 é false pois é um número que não existe
