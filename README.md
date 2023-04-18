@@ -29,6 +29,18 @@ tipagem do javascript
 - `let` o comportamento dele é flexivel pode ser alterada no meio do código
 - `var` atribui automaticamente o valor a variavel
 - a função `typeof` ela retorna o tipo da variavel ( string, number, boleano)
+- Exemplo de `typeof`:
+```
+let incognita = 10
+console.log(typeof incognita)
+incognita = 'ola'
+console.log(typeof incognita)
+```
+> Saída:
+```
+number
+string
+```
 
 ## Aula 3
 
