@@ -34,5 +34,14 @@ tipagem do javascript
 Boolean
 
 - A função `!` ela retorna um valor blooleano inverso da variavel
--Exemplo: `console.log(1)` o número 1 é true pois é positivo
--         `console.log(0)` o número 0 é false pois é um número que não existe
+-Exemplo: 
+```
+      console.log(1) o número 1 é true pois é positivo
+      console.log(0) o número 0 é false pois é um número que não existe
+       
+      let isAtivo=false
+      console.log("isAtivo = ",isAtivo)
+      isAtivo = 1
+      console.log("!isAtivo = ",!isAtivo)// a "!" inverte o boolean da variavel
+      console.log("!!isAtivo = ",!!isAtivo) //uma negação anula a outra ou seja fica sim
+```
