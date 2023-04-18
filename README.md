@@ -45,3 +45,11 @@ Boolean
       console.log("!isAtivo = ",!isAtivo)// a "!" inverte o boolean da variavel
       console.log("!!isAtivo = ",!!isAtivo) //uma negação anula a outra ou seja fica sim
 ```
+- Saída:
+```
+true
+false
+isAtivo =  false
+!isAtivo =  false
+!!isAtivo =  true
+```
