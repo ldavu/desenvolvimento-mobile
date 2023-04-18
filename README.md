@@ -30,7 +30,7 @@ tipagem do javascript
 - `var` atribui automaticamente o valor a variavel
 - a função `typeof` ela retorna o tipo da variavel ( string, number, boleano)
 - Exemplo de `typeof`:
-```
+```javascript
 let incognita = 10
 console.log(typeof incognita)
 incognita = 'ola'
@@ -47,8 +47,11 @@ string
 Boolean
 
 - A função `!` ela retorna um valor blooleano inverso da variavel
+- A função `!!` uma negação anula a outra ou seja fica sim
+- Para fazer o uso dela você deve usar `!!<variavel>` ou `!<variavel>`
+- Ela deve retornar valores do tipo `true` ou `false`
  Exemplo: 
-```
+```javascript
       console.log(1) o número 1 é true pois é positivo
       console.log(0) o número 0 é false pois é um número que não existe
        
@@ -59,7 +62,7 @@ Boolean
       console.log("!!isAtivo = ",!!isAtivo) //uma negação anula a outra ou seja fica sim
 ```
 > Saída:
-```
+```javascript
 true
 false
 isAtivo =  false
