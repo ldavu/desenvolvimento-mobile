@@ -96,5 +96,12 @@ fisiculturista profissional canadense da IFBB.`
 ```
 - Ou pode usar `\n`
 ```js
-let texto1 = "Christopher Adam Bumstead é um \nfisiculturista profissional canadense da IFBB."
+let texto1 = "Christopher Adam Bumstead é um \n fisiculturista profissional canadense da IFBB."
+//                                            ^	
+```
+- Caso a linha de um código fique muito grande e você precise quebrar em mais de uma linha para ficar legivel, pode-se usar `+` no final da string para concatenar duas strings
+>por exemplo assim :arrow_heading_down: :
+```js
+let texto3 = "Christopher Adam Bumstead é um" +
+"fisiculturista profissional canadense da IFBB."
 ```
