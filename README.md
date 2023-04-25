@@ -69,3 +69,8 @@ isAtivo =  false
 !isAtivo =  false
 !!isAtivo =  true
 ```
+
+## Aula 4
+interpolação, quebra linha, const, escopo, array...
+
+### Quebra de linha
