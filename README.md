@@ -91,6 +91,10 @@ ola Davi Lima!
 - Para fazer uma quebra de linha ou escrever em varias linhas tem duas formas, usar crase ``` ` ```  no inicio e no final de uma string
 >por exemplo assim :arrow_heading_down: :
 ```js
-1. let texto2 = `Christopher Adam Bumstead é um
-2. fisiculturista profissional canadense da IFBB.`
+let texto2 = `Christopher Adam Bumstead é um
+fisiculturista profissional canadense da IFBB.`
+```
+- Ou pode usar `\n`
+```js
+let texto1 = "Christopher Adam Bumstead é um \nfisiculturista profissional canadense da IFBB."
 ```
