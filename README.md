@@ -130,4 +130,15 @@ Cbum
 ```js
 const valores = [7.0, 10, 45, Davi"]
 ```
-- Para acessar os valores dentro de uma lista colocamos `<>[  do elemento>]`
+- Para acessar os valores dentro de uma lista colocamos `<variavel array>[n° do elemento>]`
+> Segue um exemplo :rrow_heading_down: :
+```js
+const valores = [7.0, 10, 45, Davi"]
+console.log(valores[0], valores[3])
+console.log(valores)
+```
+> Saída:
+```
+7 Davi
+[ 7, 10, 45, 'Davi' ]
+```
