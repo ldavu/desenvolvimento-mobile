@@ -71,6 +71,14 @@ isAtivo =  false
 ```
 
 ## Aula 4
-interpolação, quebra linha, const, escopo, array...
+ :arrow_right: interpolação, quebra linha, const, escopo, array...
 
-### Quebra de linha
+#### Interpolação
+- A interpolação deve ser feito usando crase ``` ` ``` no inicio e no final da string e usando `$` antes das `{}`
+- Na prática ficaria assim :arrow_heading_down: :
+```js
+let firstname = "Davi"
+let lastname = "Lima"
+
+text = `ola ${firstname} ${lastname}!` //interpolação com ${<variavel>}
+```
