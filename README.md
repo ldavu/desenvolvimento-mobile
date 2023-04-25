@@ -113,7 +113,7 @@ let texto3 = "Christopher Adam Bumstead é um" +
 ```
 
 #### Escopo
-- As variaveis criadas dentro do escopo são proprias para ele mesmo são chamadas variaveis locais
+- As variaveis criadas dentro do escopo são proprias para ele mesmo por isso são chamadas variaveis locais
 - O escopo para criar usa entre chaves `{}`
 ```js
 let nome = "Cbum" // variavel global
