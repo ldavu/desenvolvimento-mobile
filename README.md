@@ -86,3 +86,11 @@ text = `ola ${firstname} ${lastname}!` //interpolação com ${<variavel>}
 ```
 ola Davi Lima!
 ```
+
+#### quebra de linha
+- Para fazer uma quebra de linha ou escrever em varias linhas tem duas formas, usar crase ``` ` ```  no inicio e no final de uma string
+>por exemplo assim :arrow_heading_down: :
+```js
+1. let texto2 = `Christopher Adam Bumstead é um
+2. fisiculturista profissional canadense da IFBB.`
+```
