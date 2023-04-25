@@ -89,7 +89,7 @@ ola Davi Lima!
 ```
 
 #### :pencil: Quebra de linha
-- Para fazer uma quebra de linha ou escrever em varias linhas tem duas formas, usar crase ``` ` ```  no inicio e no final de uma string
+- Para fazer uma quebra de linha ou escrever em varias linhas tem duas formas, usar crase ``` ` ```  no inicio e no final da string
 >por exemplo assim :arrow_heading_down: :
 ```js
 let texto2 = `Christopher Adam Bumstead é um
