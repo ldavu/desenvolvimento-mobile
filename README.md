@@ -82,3 +82,7 @@ let lastname = "Lima"
 
 text = `ola ${firstname} ${lastname}!` //interpolação com ${<variavel>}
 ```
+> saída:
+```
+ola Davi Lima!
+```
