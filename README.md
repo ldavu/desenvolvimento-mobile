@@ -21,7 +21,7 @@ Rodar o javascript
 - `console.log('5+5', 5+5)`
 - o console.log irá printar a string '5+5' e depois da virgula irá fazer o cálculo dessa operação
 
-## Tipagem Javascript
+## :bookmark:	Tipagem Javascript
 
 tipagem do javascript
 
@@ -42,7 +42,7 @@ number
 string
 ```
 
-## Boolean
+## :bookmark:	 Boolean
 
 Boolean
 
@@ -70,7 +70,7 @@ isAtivo =  false
 !!isAtivo =  true
 ```
 
-## Aula 4
+## :bookmark:	 Aula 4
  :arrow_right: interpolação, quebra linha, const, escopo, array...
 
 #### Interpolação
