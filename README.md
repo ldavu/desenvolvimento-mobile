@@ -74,7 +74,7 @@ isAtivo =  false
 ## :bookmark:	 Aula 4
  :arrow_right: interpolação, quebra linha, const, escopo, array...
 
-#### Interpolação
+#### :pencil: Interpolação
 - A interpolação deve ser feito usando crase ``` ` ``` no inicio e no final da string e usando `$` antes das `{}`
 - Na prática ficaria assim :arrow_heading_down: :
 ```js
@@ -88,7 +88,7 @@ text = `ola ${firstname} ${lastname}!` //interpolação com ${<variavel>}
 ola Davi Lima!
 ```
 
-#### Quebra de linha
+#### :pencil: Quebra de linha
 - Para fazer uma quebra de linha ou escrever em varias linhas tem duas formas, usar crase ``` ` ```  no inicio e no final de uma string
 >por exemplo assim :arrow_heading_down: :
 ```js
@@ -107,7 +107,7 @@ let texto3 = "Christopher Adam Bumstead é um" +
 "fisiculturista profissional canadense da IFBB."
 ```
 
-#### Escopo
+#### :pencil: Escopo
 - As variaveis criadas dentro do escopo são proprias para ele mesmo por isso são chamadas variaveis locais
 - O escopo para criar usa entre chaves `{}`
 ```js
@@ -124,7 +124,7 @@ David Laid
 Cbum
 ```
 
-#### Array/Lista
+#### :pencil: Array/Lista
 - Array é usado para colocar uma cadeia de valores ou seja ele pode receber varios valores dentro de uma única variavel
 - Para criar uma array basta usar `[]`
 > Segue um exemplo :arrow_heading_down: :
