@@ -87,7 +87,7 @@ text = `ola ${firstname} ${lastname}!` //interpolação com ${<variavel>}
 ola Davi Lima!
 ```
 
-#### quebra de linha
+#### Quebra de linha
 - Para fazer uma quebra de linha ou escrever em varias linhas tem duas formas, usar crase ``` ` ```  no inicio e no final de uma string
 >por exemplo assim :arrow_heading_down: :
 ```js
@@ -104,4 +104,16 @@ let texto1 = "Christopher Adam Bumstead é um \n fisiculturista profissional can
 ```js
 let texto3 = "Christopher Adam Bumstead é um" +
 "fisiculturista profissional canadense da IFBB."
+```
+
+#### Escopo
+- As variaveis criadas dentro do escopo são proprias para ele mesmo são chamadas variaveis locais
+- O escopo para criar usa entre chaves `{}`
+```js
+let nome = "Cbum" // variavel global
+{
+    let nome = "David Laid"; // variavel local
+    console.log(nome)
+}
+console.log(nome)
 ```
