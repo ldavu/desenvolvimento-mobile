@@ -1,6 +1,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width="200" height="200">
 
 
+100. First list item
+     - First nested list item
+     - Second nested list item
+
+
 # aula-1.js
 ## aula 1 de javascript ifc
 
@@ -11,16 +16,16 @@ javascript é uma linguagem cLite
 - node.js é um interpretador javascript q faz a linguagem interpretar no backend
 
 
-Rodar o javascript
-- abrir um novo terminal
-- digitar `dir` para acessar seu diretorio
-- após achar o diretorio digitar `node <diretorio arquivo.js>`
-- logo em seguida o script será executado
+1. Rodar o javascript
+     - abrir um novo terminal
+     - digitar `dir` para acessar seu diretorio
+     - após achar o diretorio digitar `node <diretorio arquivo.js>`
+     - logo em seguida o script será executado
 
 
-1. código
-- `console.log('5+5', 5+5)`
-- o console.log irá printar a string '5+5' e depois da virgula irá fazer o cálculo dessa operação
+2. código
+     - `console.log('5+5', 5+5)`
+     - o console.log irá printar a string '5+5' e depois da virgula irá fazer o cálculo dessa operação
 
 ## :bookmark:	Tipagem Javascript
 
