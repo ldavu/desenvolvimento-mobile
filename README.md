@@ -117,3 +117,17 @@ let nome = "Cbum" // variavel global
 }
 console.log(nome)
 ```
+>Saída :arrow_heading_down:
+```
+David Laid
+Cbum
+```
+
+#### Array/Lista
+- Array é usado para colocar uma cadeia de valores ou seja ele pode receber varios valores dentro de uma única variavel
+- Para criar uma array basta usar `[]`
+> Segue um exemplo :rrow_heading_down: :
+```js
+const valores = [7.0, 10, 45, Davi"]
+```
+- Para acessar os valores dentro de uma lista colocamos `<>[  do elemento>]`
