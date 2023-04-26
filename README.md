@@ -46,7 +46,10 @@ string
 ## :bookmark:	 Boolean
 
 Boolean
+- é um tipo de dado lógico que pode ter apenas um de dois valores possíveis: `true` e `false`
 
+#### Operação NOT !! => !
+- O operador de negação `!` é um operando unário, isto é, opera sobre apenas um operando. Ele nega, inverte o valor lógico do operando. 
 - A função `!` ela retorna um valor blooleano inverso da variavel
 - A função `!!` uma negação anula a outra ou seja fica sim
 - Para fazer o uso dela você deve usar `!!<variavel>` ou `!<variavel>`
