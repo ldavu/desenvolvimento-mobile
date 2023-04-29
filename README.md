@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width="200" height="200">
+8<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width="200" height="200">
 
 
 # aula-1.js
@@ -139,7 +139,7 @@ const valores = [7.0, 10, 45, Davi"]
 - Para acessar os valores dentro de uma lista colocamos `<variavel array>[n° do elemento>]`
 > Segue um exemplo :arrow_heading_down: :
 ```js
-const valores = [7.0, 10, 45, Davi"]
+const valores = [7.0, 10, 45, "Davi"]
 console.log(valores[0], valores[3])
 console.log(valores)
 ```
