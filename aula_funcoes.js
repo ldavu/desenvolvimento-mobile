@@ -37,5 +37,20 @@ idade(19)
 
 //exercicio
 
+
+//em arrow
 const verificarnota = nota => console.log(nota <= 6? 'aluno reprovado':'aluno aprovado')
 verificarnota(7)
+
+
+//normal 
+function verificarnota1(nota){
+    if( nota <= 6)
+    {
+        console.log("reprovado")
+    }
+    else{
+        console.log("aprovado")
+    }
+}
+verificarnota1(7)
