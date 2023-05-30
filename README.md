@@ -1,3 +1,4 @@
+
 8<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width="200" height="200">
 
 
@@ -154,7 +155,12 @@ console.log(valores)
 #### :pencil: sintaxe Funções
 - Função simples para verificar nota de um aluno
 - Para criar uma função usa-se `function <nome>(<Parâmetros>)`
-- Função dentro da variavel
+
+<br>
+
+ - Segue exemplo de como criar as diversas funções:
+
+> Função dentro da variável :arrow_heading_down: :
 ```js
 const imprimirsubtracao = function(x,y) // coloco a função numa variavel sendo possivel executar a função pelo nome da variavel
 {
@@ -162,7 +168,7 @@ const imprimirsubtracao = function(x,y) // coloco a função numa variavel sendo
 }
 imprimirsubtracao(7,6)
 ```
-- Função normal
+> Função normal :arrow_heading_down: :
 ```js
 function verificarnota1(nota){
     if( nota <= 6)
@@ -175,8 +181,23 @@ function verificarnota1(nota){
 }
 verificarnota1(7)
 ```
-- Função encurtada ou  função em arrow
+> Função encurtada ou função arrow :arrow_heading_down: :
 ```js
 const verificarnota = nota => console.log(nota <= 6? 'aluno reprovado':'aluno aprovado')
 verificarnota(7)
+```
+<br>
+ 
+ - Pode-se passar parâmetros com valores padrões ou valores `default`
+
+- Basta passar os valores que quer que sejam padrões depois do parâmetro da função `x=0,y=0` 
+
+>exemplo de como colocar valores padrões para parâmetros :arrow_heading_down:
+```js
+function somar1(x=0, y=0) //parâmetros padroes x=0,y=0
+{   
+    console.log(x+y)
+    return (x+y)
+}
+somar1(3)
 ```
