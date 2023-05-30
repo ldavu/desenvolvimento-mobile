@@ -148,10 +148,12 @@ console.log(valores)
 7 Davi
 [ 7, 10, 45, 'Davi' ]
 ```
+## :bookmark:	 Aula 5
+:arrow_right: sitaxe de funções, função simples e encurtada
 
 #### :pencil: sintaxe Funções
 - Função simples para verificar nota de um aluno
--explicar como funciona uma função
+- Para criar uma função usa-se `function <nome>(<Parâmetros>)`
 
 ```js
 function verificarnota1(nota){
