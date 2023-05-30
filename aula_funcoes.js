@@ -20,3 +20,12 @@ const imprimirsubtracao = function(x,y) // coloco a função numa variavel sendo
 imprimirsubtracao(7,6)
 
 
+
+const subtracao = (x,y) => // função arrow function por conta do uso do '=>' não precisa usar mais o function
+{
+    console.log(x - y)
+}
+
+
+const multiplicacao = (x,y) => x*y // outra função mais encurtada
+console.log(multiplicacao(5,5));
