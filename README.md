@@ -148,3 +148,25 @@ console.log(valores)
 7 Davi
 [ 7, 10, 45, 'Davi' ]
 ```
+
+#### :pencil: sintaxe Funções
+- Função simples para verificar nota de um aluno
+-explicar como funciona uma função
+
+```js
+function verificarnota1(nota){
+    if( nota <= 6)
+    {
+        console.log("reprovado")
+    }
+    else{
+        console.log("aprovado")
+    }
+}
+verificarnota1(7)
+```
+- Função encurtada ou  função em arrow
+```js
+const verificarnota = nota => console.log(nota <= 6? 'aluno reprovado':'aluno aprovado')
+verificarnota(7)
+```
