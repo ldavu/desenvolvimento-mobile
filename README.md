@@ -154,7 +154,15 @@ console.log(valores)
 #### :pencil: sintaxe Funções
 - Função simples para verificar nota de um aluno
 - Para criar uma função usa-se `function <nome>(<Parâmetros>)`
-
+- Função dentro da variavel
+```js
+const imprimirsubtracao = function(x,y) // coloco a função numa variavel sendo possivel executar a função pelo nome da variavel
+{
+    console.log(x - y)
+}
+imprimirsubtracao(7,6)
+```
+- Função normal
 ```js
 function verificarnota1(nota){
     if( nota <= 6)
