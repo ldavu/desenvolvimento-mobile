@@ -29,3 +29,13 @@ const subtracao = (x,y) => // função arrow function por conta do uso do '=>' n
 
 const multiplicacao = (x,y) => x*y // outra função mais encurtada
 console.log(multiplicacao(5,5));
+
+const idade = (idade) => console.log(idade<=18? 'menor de idade':'maior de idade') //if ternario
+idade(19)
+
+
+
+//exercicio
+
+const verificarnota = nota => console.log(nota <= 6? 'aluno reprovado':'aluno aprovado')
+verificarnota(7)
