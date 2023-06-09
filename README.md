@@ -200,3 +200,29 @@ function somar1(x=0, y=0) //parâmetros padroes x=0,y=0
 }
 somar1(3)
 ```
+## Aula 7
+#### :pencil: Destructuring
+
+- Destructing ou  Desestruturação, é usado para tirar variáveis da parte de um objeto e trazer ela de uma forma simples para trabalhar.
+
+> vamos usar esse objeto de exemplo :arrow_heading_down:
+```js
+const  estudante  =
+{
+nome: "davu",
+instituicao: "IFC Brusque",
+notas:
+{
+matematica: 6,
+fisica: 7,
+portugues: 9,
+programacao: 10
+}
+}
+```
+> Aplicando Destructing :arrow_heading_down:
+```js
+const {nome:NomeEstudante, instituicao:INST_aluno} = estudante
+```
+- Basicamente você não vai precisar ficar buscando a variavel dentro do objeto `estudante.nome`, `estudante.notas.matematica`
+
