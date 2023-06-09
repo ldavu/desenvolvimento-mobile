@@ -207,17 +207,17 @@ somar1(3)
 
 > vamos usar esse objeto de exemplo :arrow_heading_down:
 ```js
-const  estudante  =
+const estudante = 
 {
-nome: "davu",
-instituicao: "IFC Brusque",
-notas:
-{
-matematica: 6,
-fisica: 7,
-portugues: 9,
-programacao: 10
-}
+    nome: "davu",
+    instituicao: "IFC Brusque",
+    notas:
+    {
+        matematica: 6,
+        fisica: 7,
+        portugues: 9,
+        programacao: 10
+    }
 }
 ```
 > Aplicando Destructing :arrow_heading_down:
