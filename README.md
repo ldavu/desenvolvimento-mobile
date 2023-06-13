@@ -200,7 +200,7 @@ function somar1(x=0, y=0) //parâmetros padroes x=0,y=0
 }
 somar1(3)
 ```
-## :bookmark: Aula 7
+## :bookmark: Aula 6
 #### :pencil: Destructuring
 
 - Destructing ou  Desestruturação, é usado para tirar variáveis da parte de um objeto e trazer ela de uma forma simples para trabalhar.
